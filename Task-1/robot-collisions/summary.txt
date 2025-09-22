@@ -1,0 +1,1 @@
+On a line, colliding robots battle. The stronger survives with one less health, eliminating the weaker. If healths are equal, both are eliminated
