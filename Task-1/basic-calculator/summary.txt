@@ -1,0 +1,1 @@
+Implement the `calculate` method in Java. It must use a stack to correctly handle nested parentheses () while also supporting + and - operations.

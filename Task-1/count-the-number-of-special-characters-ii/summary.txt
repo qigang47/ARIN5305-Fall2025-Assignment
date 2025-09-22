@@ -1,0 +1,1 @@
+Create a Java function numberOfSpecialChars(String word). Using two maps, count characters where the last lowercase index is less than the first uppercase index
