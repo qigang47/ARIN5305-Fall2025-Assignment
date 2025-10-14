@@ -23,13 +23,14 @@ public class HighCoverageTest {
     }
 
     @Test
-    public void testAlternating() {
-        assertEquals(2, solution.numberOfSpecialChars("cdDC"));
+    public void testRepeatedUppercaseAndLowerAfter() {
+
+        assertEquals(0, solution.numberOfSpecialChars("AAa"));
     }
 
     @Test
     public void testRepeatedBlocks() {
-        assertEquals(2, solution.numberOfSpecialChars("ccddCCDD"));
+        assertEquals(2, solution.numberOfSpecialChars("cc1ddCCDD"));
     }
 }
 
